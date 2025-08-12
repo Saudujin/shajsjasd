@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>مُنشئ الجدول الدراسي الذكي</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- استخدم خط Google Fonts لعرض خطوط عربية أنيقة -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>مُنشئ الجدول الدراسي الذكي</h1>
+      <p>اختر جنس الطالب ومستوى الدراسة، ثم حدد المقررات والتفضيلات للحصول على أفضل جدول ممكن.</p>
+    </header>
+
+    <main>
+      <section class="selectors">
+        <div class="field">
+          <label for="gender">الجنس:</label>
+          <select id="gender">
+            <option value="male">طالب</option>
+            <option value="female">طالبة</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="level">المستوى:</label>
+          <select id="level">
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+          </select>
+        </div>
+      </section>
+
+      <section id="courses-section" class="courses hidden">
+        <h2>اختر المقررات</h2>
+        <div id="courses-list" class="courses-list"></div>
+      </section>
+
+      <section id="preferences-section" class="preferences hidden">
+        <h2>التفضيلات (اختياري)</h2>
+        <div class="field">
+          <label>تفضيل الوقت:</label>
+          <select id="timePref">
+            <option value="both">كلاهما</option>
+            <option value="morning">صباحي</option>
+            <option value="evening">مسائي</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>الأيام المراد تجنبها:</label>
+          <div class="days-list">
+            <label><input type="checkbox" value="1" /> الأحد</label>
+            <label><input type="checkbox" value="2" /> الإثنين</label>
+            <label><input type="checkbox" value="3" /> الثلاثاء</label>
+            <label><input type="checkbox" value="4" /> الأربعاء</label>
+            <label><input type="checkbox" value="5" /> الخميس</label>
+          </div>
+        </div>
+      </section>
+
+      <button id="build-btn" class="primary hidden">ابنِ أفضل جدول</button>
+
+      <section id="results-section" class="results hidden">
+        <h2>النتيجة</h2>
+        <div id="schedule-output"></div>
+        <div id="alternatives"></div>
+      </section>
+    </main>
+
+    <!-- ملف بيانات الجداول -->
+    <script src="schedule_data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

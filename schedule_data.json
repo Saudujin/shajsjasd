@@ -1,0 +1,1422 @@
+{
+  "male": {
+    "5": [
+      {
+        "course": "QUA 204 Algebra",
+        "instructor": "-",
+        "section": "824",
+        "room": "8:00-9:50 | 8:00-8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "QUA 204 Algebra",
+        "instructor": "-",
+        "section": "29035",
+        "room": "10:00-11:50 | 10:00-10:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "QUA 204 Algebra",
+        "instructor": "-",
+        "section": "73064",
+        "room": "1:00-2:50 | 1:00-1:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MIS 214 DATA BASE",
+        "instructor": "-",
+        "section": "674",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 214 DATA BASE",
+        "instructor": "-",
+        "section": "51791",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 214 DATA BASE",
+        "instructor": "-",
+        "section": "62817",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming",
+        "instructor": "-",
+        "section": "672",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming",
+        "instructor": "-",
+        "section": "51789",
+        "room": "8:00-8:50 | 8:00-9:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming",
+        "instructor": "-",
+        "section": "56774",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "46889",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "51808",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "98962",
+        "room": "5:00-5:50 | 5:00-6:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 303  Innovation",
+        "instructor": "-",
+        "section": "73900",
+        "room": "5:00-5:50 | 5:00-6:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "BUS 303  Innovation",
+        "instructor": "-",
+        "section": "79401",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79400",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79963",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "98963",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "29718",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "51793",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "54472",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 410 Strategic Marketing",
+        "instructor": "-",
+        "section": "32790",
+        "room": "10:00 - 10:50",
+        "day": 2,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "32798",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "59159",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "89016",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": null,
+        "section": "98961",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 202 Human Resourses",
+        "instructor": "-",
+        "section": "74001",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 202 Human Resourses",
+        "instructor": "-",
+        "section": "96946",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      }
+    ],
+    "6": [
+      {
+        "course": "MIS 215 Analysis",
+        "instructor": "-",
+        "section": "828",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 3,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 215 Analysis",
+        "instructor": "-",
+        "section": "29079",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 350 DSS",
+        "instructor": "-",
+        "section": "832",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MIS 350 DSS",
+        "instructor": "-",
+        "section": "68948",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MIS 366 WEB",
+        "instructor": "-",
+        "section": "830",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 4,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MIS 366 WEB",
+        "instructor": "-",
+        "section": "30238",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 4,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "667",
+        "room": "9:00 - 9:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "668",
+        "room": "8:00-8:50 | 9:00-9:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "29716",
+        "room": "11:00 - 11:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "29749",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "29759",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "53098",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "79397",
+        "room": "10:00 - 10:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "46889",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "51808",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "98962",
+        "room": "5:00-5:50 | 5:00-6:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 303  Innovation",
+        "instructor": "-",
+        "section": "73900",
+        "room": "5:00-5:50 | 5:00-6:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "BUS 303  Innovation",
+        "instructor": "-",
+        "section": "79401",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79400",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79963",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "98963",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "29718",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "51793",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "54472",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 410 Strategic Marketing",
+        "instructor": "-",
+        "section": "32790",
+        "room": "10:00 - 10:50",
+        "day": 2,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "32798",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "59159",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "89016",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "98961",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 202 Human Resourses",
+        "instructor": "-",
+        "section": "74001",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 202 Human Resourses",
+        "instructor": "-",
+        "section": "96946",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      }
+    ],
+    "7": [
+      {
+        "course": "MIS 333 System Security",
+        "instructor": "-",
+        "section": "826",
+        "room": "9:00 - 9:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 333 System Security",
+        "instructor": "-",
+        "section": "29711",
+        "room": "11:00 - 11:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 333 System Security",
+        "instructor": "-",
+        "section": "64613",
+        "room": "10:00 - 10:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 354 Enterprise Resource",
+        "instructor": "-",
+        "section": "827",
+        "room": "8:00-8:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 354 Enterprise Resource",
+        "instructor": "-",
+        "section": "29750",
+        "room": "9:00 - 9:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 354 Enterprise Resource",
+        "instructor": null,
+        "section": "70395",
+        "room": "10:00 - 10:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 403 Electronic Marketing",
+        "instructor": "-",
+        "section": "45071",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 403 Electronic Marketing",
+        "instructor": "-",
+        "section": "65971",
+        "room": "8:00-8:50 | 8:00-9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 403 Electronic Marketing",
+        "instructor": "-",
+        "section": "94579",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "46889",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "51808",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "98962",
+        "room": "5:00-5:50 | 5:00-6:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 303  Innovation",
+        "instructor": "-",
+        "section": "73900",
+        "room": "5:00-5:50 | 5:00-6:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "BUS 303  Innovation",
+        "instructor": "-",
+        "section": "79401",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79400",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79963",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "98963",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "29718",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "51793",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "54472",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 410 Strategic Marketing",
+        "instructor": "-",
+        "section": "32790",
+        "room": "10:00 - 10:50",
+        "day": 2,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "32798",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "59159",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "89016",
+        "room": "10:00-10:50 | 10:00-11:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "ECON 421 Project Evaluation",
+        "instructor": "-",
+        "section": "98961",
+        "room": "1:00-1:50 | 1:00-2:50",
+        "day": 5,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 202 Human Resourses",
+        "instructor": "-",
+        "section": "74001",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 202 Human Resourses",
+        "instructor": "-",
+        "section": "96946",
+        "room": "3:00-3:50 | 3:00-4:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 419 Data Mining",
+        "instructor": "اماني سمها",
+        "section": "391",
+        "room": "4:00-4:50 | 5:00-6:50",
+        "day": 3,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 431 Selected Topics",
+        "instructor": "متعب الضبيطي",
+        "section": "91603",
+        "room": "4:00-4:50 | 5:00-6:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 433 Security Policies",
+        "instructor": "متعب الضبيطي",
+        "section": "96551",
+        "room": "4:00-4:50 | 5:00-6:50",
+        "day": 3,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 450 E-Healthcare",
+        "instructor": "عبدالعزيز الحمود",
+        "section": "96553",
+        "room": "4:00-4:50 | 5:00-6:50",
+        "day": 1,
+        "start": 630,
+        "end": 750
+      }
+    ]
+  },
+  "female": {
+    "5": [
+      {
+        "course": "QUA 204 Algebra",
+        "instructor": "-",
+        "section": "25855",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "QUA 204 Algebra",
+        "instructor": "-",
+        "section": "51720",
+        "room": "9:00 - 9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "QUA 204 Algebra",
+        "instructor": "-",
+        "section": "70366",
+        "room": "11:00 - 11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MIS 214 DATA BASE",
+        "instructor": "نجلا باحميد",
+        "section": "39806",
+        "room": "10:00 - 10:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 214 DATA BASE lab",
+        "instructor": "نجلا باحميد",
+        "section": "39807",
+        "room": "10:00 - 11:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 214 DATA BASE",
+        "instructor": "بدور اليحيي",
+        "section": "42483",
+        "room": "11:00 - 11:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 214 DATA BASE lab",
+        "instructor": "شارتاج",
+        "section": "42484",
+        "room": "8:00 - 9:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 214 DATA BASE",
+        "instructor": "بدور اليحيي",
+        "section": "71948",
+        "room": "9:00 - 9:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 214 DATA BASE lab",
+        "instructor": "شارتاج",
+        "section": "71949",
+        "room": "8:00 - 9:50",
+        "day": 2,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming",
+        "instructor": "فاطمة العتيبي",
+        "section": "39804",
+        "room": "9:00 - 9:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming lab",
+        "instructor": "فاطمة العتيبي",
+        "section": "39805",
+        "room": "10:00 - 11:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming",
+        "instructor": "فاطمة العتيبي",
+        "section": "42473",
+        "room": "8:00 - 8:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming lab",
+        "instructor": "فاطمة العتيبي",
+        "section": "42474",
+        "room": "8:00 - 9:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming",
+        "instructor": "-",
+        "section": "71950",
+        "room": "10:00 - 10:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 211 Programming lab",
+        "instructor": "نجلا باحميد",
+        "section": "71951",
+        "room": "10:00 - 11:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "28137",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "74719",
+        "room": "9:00 - 9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "30675",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "62086",
+        "room": "9:00 - 9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79014",
+        "room": "11:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "45389",
+        "room": "10:00 - 10:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "67217",
+        "room": "11:00-11:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "75495",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "80659",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "80660",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      }
+    ],
+    "6": [
+      {
+        "course": "MIS 215 Analysis",
+        "instructor": "رامه البلوي",
+        "section": "41455",
+        "room": "10:00 - 10:50",
+        "day": 3,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 215 Analysis Lab",
+        "instructor": "رامه البلوي",
+        "section": "41456",
+        "room": "10:00 - 11:50",
+        "day": 3,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 350 DSS",
+        "instructor": "-",
+        "section": "41459",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MIS 366 WEB",
+        "instructor": "بسمة القضيب",
+        "section": "27989",
+        "room": "11:00-11:50",
+        "day": 4,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MIS 366 WEB Lab",
+        "instructor": "بسمة القضيب",
+        "section": "27991",
+        "room": "8:00 - 9:50",
+        "day": 4,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "29495",
+        "room": "8:00-8:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "39157",
+        "room": "11:00-11:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "56064",
+        "room": "10:00-10:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "75462",
+        "room": "9:00-9:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 371 Operation",
+        "instructor": "-",
+        "section": "75478",
+        "room": "9:00-9:50",
+        "day": 1,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "28137",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "74719",
+        "room": "9:00 - 9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "30675",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "62086",
+        "room": "9:00 - 9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79014",
+        "room": "11:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "45389",
+        "room": "10:00 - 10:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "67217",
+        "room": "11:00-11:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "75495",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "80659",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "80660",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      }
+    ],
+    "7": [
+      {
+        "course": "MIS 333 Security",
+        "instructor": "ديمه المنيع",
+        "section": "27474",
+        "room": "11:00 - 11:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 333 Security",
+        "instructor": "ديمه المنيع",
+        "section": "52741",
+        "room": "10:00-10:50",
+        "day": 4,
+        "start": 630,
+        "end": 750
+      },
+      {
+        "course": "MIS 354 ERP",
+        "instructor": "نوره ابانمي",
+        "section": "61648",
+        "room": "9:00-9:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 354 ERP",
+        "instructor": "غاده الربيعه",
+        "section": "61651",
+        "room": "10:00-10:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 403 Electronic Marketing",
+        "instructor": "-",
+        "section": "75475",
+        "room": "8:00-8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 403 Electronic Marketing",
+        "instructor": "-",
+        "section": "75832",
+        "room": "9:00-9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 403 Electronic Marketing",
+        "instructor": "-",
+        "section": "75837",
+        "room": "10:00-10:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 403 Electronic Marketing",
+        "instructor": "-",
+        "section": "79336",
+        "room": "11:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "28137",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 302 International",
+        "instructor": "-",
+        "section": "74719",
+        "room": "9:00 - 9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "30675",
+        "room": "8:00 - 8:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "62086",
+        "room": "9:00 - 9:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "BUS 372 Supply Chain",
+        "instructor": "-",
+        "section": "79014",
+        "room": "11:00-11:50",
+        "day": 3,
+        "start": 480,
+        "end": 600
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "45389",
+        "room": "10:00 - 10:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "67217",
+        "room": "11:00-11:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "75495",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "80659",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MKT 301 Consumer Behavior",
+        "instructor": "-",
+        "section": "80660",
+        "room": "1:00-1:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 419 Data Mining",
+        "instructor": "زاهيه الحربي",
+        "section": "75924",
+        "room": "9:00-9:50|10:00-11:50",
+        "day": 3,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 419 Data Mining",
+        "instructor": "زاهيه الحربي",
+        "section": "75925",
+        "room": "9:00-9:50|10:00-11:50",
+        "day": 3,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 431 Selected Topics in Management Information System",
+        "instructor": "عذاري الواصل",
+        "section": "40679",
+        "room": "9:00-9:50|10:00-10:50|11:00-11:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      },
+      {
+        "course": "MIS 431 Selected Topics in Management Information System",
+        "instructor": "منيره العود",
+        "section": "70419",
+        "room": "9:00-9:50|10:00-10:50|11:00-11:50",
+        "day": 5,
+        "start": 60,
+        "end": 180
+      }
+    ]
+  }
+}

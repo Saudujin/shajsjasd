@@ -1,0 +1,143 @@
+/*
+ * أنماط بسيطة لتطبيق منشئ الجدول الدراسي الذكي
+ * تتضمن الألوان والخطوط العربية واتجاه RTL.
+ */
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background: #f9fafb;
+  color: #1f2937;
+  margin: 0;
+  padding: 0 1rem;
+  direction: rtl;
+}
+
+header {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.2rem;
+  color: #2563eb; /* أزرق هادئ */
+}
+
+header p {
+  color: #4b5563;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.selectors {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.field {
+  margin-bottom: 0.5rem;
+}
+
+.field label {
+  display: block;
+  margin-bottom: 0.2rem;
+  font-weight: 600;
+}
+
+.field select,
+.field input[type="text"] {
+  padding: 0.4rem 0.6rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+  width: 200px;
+  font-size: 1rem;
+  background-color: #fff;
+}
+
+.courses-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.course-item {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.375rem;
+  padding: 0.5rem 0.8rem;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.course-item.selected {
+  background: #dbeafe; /* أزرق فاتح */
+  border-color: #60a5fa;
+}
+
+.days-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.days-list label {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.primary {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.75rem 1.5rem;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 0.375rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.primary:hover {
+  background-color: #1e40af;
+}
+
+.hidden {
+  display: none;
+}
+
+table.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+table.schedule-table th,
+table.schedule-table td {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+table.schedule-table th {
+  background-color: #f3f4f6;
+  font-weight: 600;
+}
+
+#alternatives {
+  margin-top: 1rem;
+}
+
+.alt-schedule {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.375rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
