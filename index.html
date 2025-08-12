@@ -5,44 +5,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>مُنشئ الجدول الدراسي الذكي</title>
     <link rel="stylesheet" href="style.css" />
-    <!-- استخدم خط Google Fonts لعرض خطوط عربية أنيقة -->
-    <link
-      href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&display=swap"
-      rel="stylesheet"
-    />
+    <!-- خطوط عربية جميلة -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet" />
   </head>
   <body>
     <header>
       <h1>مُنشئ الجدول الدراسي الذكي</h1>
-      <p>اختر جنس الطالب ومستوى الدراسة، ثم حدد المقررات والتفضيلات للحصول على أفضل جدول ممكن.</p>
+      <p>خطوات بسيطة لبناء جدولك الجامعي المثالي.</p>
     </header>
-
     <main>
-      <section class="selectors">
-        <div class="field">
-          <label for="gender">الجنس:</label>
-          <select id="gender">
-            <option value="male">طالب</option>
-            <option value="female">طالبة</option>
-          </select>
+      <!-- شريط التقدم -->
+      <div class="progress-bar">
+        <div id="indicator-1" class="progress-step active">١. المستوى والجنس</div>
+        <div id="indicator-2" class="progress-step">٢. اختيار المقررات</div>
+        <div id="indicator-3" class="progress-step">٣. التفضيلات</div>
+        <div id="indicator-4" class="progress-step">٤. جدولك</div>
+      </div>
+      <!-- الخطوة 1 -->
+      <section id="step1" class="step">
+        <h2>اختر الجنس والمستوى</h2>
+        <div class="selectors">
+          <div class="field">
+            <label for="gender">الجنس:</label>
+            <select id="gender">
+              <option value="male">طالب</option>
+              <option value="female">طالبة</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="level">المستوى:</label>
+            <select id="level">
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+            </select>
+          </div>
         </div>
-        <div class="field">
-          <label for="level">المستوى:</label>
-          <select id="level">
-            <option value="5">5</option>
-            <option value="6">6</option>
-            <option value="7">7</option>
-          </select>
-        </div>
+        <button id="to-step2" class="primary">التالي</button>
       </section>
-
-      <section id="courses-section" class="courses hidden">
+      <!-- الخطوة 2 -->
+      <section id="step2" class="step hidden">
         <h2>اختر المقررات</h2>
+        <p class="description">قم بالنقر على المقررات التي ترغب في تسجيلها. يمكنك اختيار أكثر من مقرر.</p>
         <div id="courses-list" class="courses-list"></div>
+        <div class="step-controls">
+          <button id="back-to-1" class="secondary">رجوع</button>
+          <button id="to-step3" class="primary">التالي</button>
+        </div>
       </section>
-
-      <section id="preferences-section" class="preferences hidden">
-        <h2>التفضيلات (اختياري)</h2>
+      <!-- الخطوة 3 -->
+      <section id="step3" class="step hidden">
+        <h2>التفضيلات الاختيارية</h2>
+        <p class="description">اختر تفضيلاتك لتحسين الجدول؛ يمكنك تخطي هذه الخطوة.</p>
         <div class="field">
           <label>تفضيل الوقت:</label>
           <select id="timePref">
@@ -61,18 +75,38 @@
             <label><input type="checkbox" value="5" /> الخميس</label>
           </div>
         </div>
+        <div class="step-controls">
+          <button id="back-to-2" class="secondary">رجوع</button>
+          <button id="to-step4" class="primary">إنشاء الجدول</button>
+        </div>
       </section>
-
-      <button id="build-btn" class="primary hidden">ابنِ أفضل جدول</button>
-
-      <section id="results-section" class="results hidden">
-        <h2>النتيجة</h2>
+      <!-- الخطوة 4 -->
+      <section id="step4" class="step hidden">
+        <h2>جدولك النهائي</h2>
+        <div id="stats" class="stats"></div>
         <div id="schedule-output"></div>
         <div id="alternatives"></div>
+        <div class="calendar-controls">
+          <button id="back-to-3" class="secondary">رجوع</button>
+          <button id="export-ical" class="secondary">تصدير iCal</button>
+          <button id="share-schedule" class="secondary">نسخ رابط الجدول</button>
+        </div>
+        <div id="calendar-grid" class="calendar-grid"></div>
       </section>
+      <!-- مربع التفاصيل والملاحظات -->
+      <div id="card-modal" class="modal hidden">
+        <div class="modal-content">
+          <h3 id="modal-title"></h3>
+          <p id="modal-details"></p>
+          <label for="note-input">ملاحظتك:</label>
+          <textarea id="note-input" rows="3" placeholder="اكتب ملاحظتك هنا..."></textarea>
+          <div class="modal-controls">
+            <button id="save-note" class="primary">حفظ</button>
+            <button id="close-modal" class="secondary">إغلاق</button>
+          </div>
+        </div>
+      </div>
     </main>
-
-    <!-- ملف بيانات الجداول -->
     <script src="schedule_data.js"></script>
     <script src="app.js"></script>
   </body>
